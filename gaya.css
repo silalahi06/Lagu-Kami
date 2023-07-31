@@ -1,5 +1,5 @@
 html {
-	font-family: 'Courgette', cursive;
+	font-family: 'Georgia', sans-serif;
 	user-select: none;
 	
 }
@@ -21,7 +21,7 @@ body {
 	font-family: 'Courgette', cursive;
 }
 h2, h3, h4, p, button, span, div {
-	font-family: 'Courgette', cursive;
+	font-family: 'Georgia', sans-serif;
 	font-weight: bold;
 	color: white;
 }
